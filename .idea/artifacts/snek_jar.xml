@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="snek:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/snek_jar</output-path>
+    <root id="archive" name="snek.jar">
+      <element id="module-output" name="snek" />
+    </root>
+  </artifact>
+</component>

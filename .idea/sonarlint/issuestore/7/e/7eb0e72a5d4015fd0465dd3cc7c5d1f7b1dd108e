@@ -1,0 +1,41 @@
+
+G
+java:S1948""*Make "pointImg" transient or serializable.(®Ë‹Ÿ8¨ÆÚ”¢.
+D
+java:S3398ğ"!Move this method into "Listener".(ÓÔ•¦ùÿÿÿÿ8öşºä¦.
+K
+java:S2140h")Use "java.util.Random.nextInt()" instead.(´»Ë‰ıÿÿÿÿ8ŸÌ´Î¢.
+D
+java:S3398é"!Move this method into "Listener".(Ñ¶¦øşÿÿÿÿ8öşºä¦.
+D
+java:S1948"'Make "board" transient or serializable.(ç·Ö®8á€§¡.
+>
+java:S3398—"!Move this method into "Listener".(ÄÖ¶8öşºä¦.
+K
+java:S2140g")Use "java.util.Random.nextInt()" instead.(Âš•ûÿÿÿÿ8êû•Ë¢.
+¤
+java:S1186«"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ8çÃ¬í¢.
+?
+java:S3398¾"!Move this method into "Listener".(æ©ÂÎ8öşºä¦.
+J
+java:S1948 "-Make "snekSegment" transient or serializable.(Åôòÿ8á€§¡.
+Ÿ
+java:S1186Š"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—8ŸÌ´Î¢.
+F
+java:S1948"*Make "listener" transient or serializable.(½¬18¨ÆÚ”¢.
+L
+java:S1948!"*Make "snekHead" transient or serializable.(Ğ›˜ÿÿÿÿÿ8Õ´ÁÓ¡.
+H
+java:S1948"&Make "head" transient or serializable.(÷à¢¦ıÿÿÿÿ8¬¶Ñ¡.
+D	java:S131""Add a default case to this switch.(ù‚Óøÿÿÿÿ8ŸÌ´Î¢.
+?
+java:S3398Ä"!Move this method into "Listener".(¥È¦É8öşºä¦.
+L
+java:S1948$"*Make "segments" transient or serializable.(õ—´ùÿÿÿÿ8Ê•½§¡.
+I
+java:S1948%"'Make "point" transient or serializable.(°¢¦²üÿÿÿÿ8¨ÆÚ”¢.
+E
+java:S1148_"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ŸÌ´Î¢.
+?	java:S131ñ""Add a default case to this switch.(•Ê…û8ŸÌ´Î¢.
+D
+java:S3398´"!Move this method into "Listener".(ç„¾¿şÿÿÿÿ8öşºä¦.
